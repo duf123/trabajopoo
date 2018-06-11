@@ -1,0 +1,3 @@
+﻿body {
+    <asp:TextBox ID="TextBox1" runat="server" Width="62px" ForeColor="Blue"></asp:TextBox>
+}
